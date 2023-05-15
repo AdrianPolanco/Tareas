@@ -1,0 +1,15 @@
+C:\Users\adfer\source\repos\HolaTarea\HolaTarea\bin\Debug\net6.0\HolaMundo.exe
+C:\Users\adfer\source\repos\HolaTarea\HolaTarea\bin\Debug\net6.0\HolaMundo.deps.json
+C:\Users\adfer\source\repos\HolaTarea\HolaTarea\bin\Debug\net6.0\HolaMundo.runtimeconfig.json
+C:\Users\adfer\source\repos\HolaTarea\HolaTarea\bin\Debug\net6.0\HolaMundo.dll
+C:\Users\adfer\source\repos\HolaTarea\HolaTarea\bin\Debug\net6.0\HolaMundo.pdb
+C:\Users\adfer\source\repos\HolaTarea\HolaTarea\obj\Debug\net6.0\HolaMundo.csproj.AssemblyReference.cache
+C:\Users\adfer\source\repos\HolaTarea\HolaTarea\obj\Debug\net6.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adfer\source\repos\HolaTarea\HolaTarea\obj\Debug\net6.0\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\adfer\source\repos\HolaTarea\HolaTarea\obj\Debug\net6.0\HolaMundo.AssemblyInfo.cs
+C:\Users\adfer\source\repos\HolaTarea\HolaTarea\obj\Debug\net6.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\adfer\source\repos\HolaTarea\HolaTarea\obj\Debug\net6.0\HolaMundo.dll
+C:\Users\adfer\source\repos\HolaTarea\HolaTarea\obj\Debug\net6.0\refint\HolaMundo.dll
+C:\Users\adfer\source\repos\HolaTarea\HolaTarea\obj\Debug\net6.0\HolaMundo.pdb
+C:\Users\adfer\source\repos\HolaTarea\HolaTarea\obj\Debug\net6.0\HolaMundo.genruntimeconfig.cache
+C:\Users\adfer\source\repos\HolaTarea\HolaTarea\obj\Debug\net6.0\ref\HolaMundo.dll

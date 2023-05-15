@@ -1,0 +1,15 @@
+C:\Users\adfer\source\repos\HolaTarea\Cuadrado\bin\Debug\net6.0\Cuadrado.exe
+C:\Users\adfer\source\repos\HolaTarea\Cuadrado\bin\Debug\net6.0\Cuadrado.deps.json
+C:\Users\adfer\source\repos\HolaTarea\Cuadrado\bin\Debug\net6.0\Cuadrado.runtimeconfig.json
+C:\Users\adfer\source\repos\HolaTarea\Cuadrado\bin\Debug\net6.0\Cuadrado.dll
+C:\Users\adfer\source\repos\HolaTarea\Cuadrado\bin\Debug\net6.0\Cuadrado.pdb
+C:\Users\adfer\source\repos\HolaTarea\Cuadrado\obj\Debug\net6.0\Cuadrado.csproj.AssemblyReference.cache
+C:\Users\adfer\source\repos\HolaTarea\Cuadrado\obj\Debug\net6.0\Cuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adfer\source\repos\HolaTarea\Cuadrado\obj\Debug\net6.0\Cuadrado.AssemblyInfoInputs.cache
+C:\Users\adfer\source\repos\HolaTarea\Cuadrado\obj\Debug\net6.0\Cuadrado.AssemblyInfo.cs
+C:\Users\adfer\source\repos\HolaTarea\Cuadrado\obj\Debug\net6.0\Cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\adfer\source\repos\HolaTarea\Cuadrado\obj\Debug\net6.0\Cuadrado.dll
+C:\Users\adfer\source\repos\HolaTarea\Cuadrado\obj\Debug\net6.0\refint\Cuadrado.dll
+C:\Users\adfer\source\repos\HolaTarea\Cuadrado\obj\Debug\net6.0\Cuadrado.pdb
+C:\Users\adfer\source\repos\HolaTarea\Cuadrado\obj\Debug\net6.0\Cuadrado.genruntimeconfig.cache
+C:\Users\adfer\source\repos\HolaTarea\Cuadrado\obj\Debug\net6.0\ref\Cuadrado.dll
